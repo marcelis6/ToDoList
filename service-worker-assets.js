@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "nk4AV6VJ",
+  "version": "UPcx2SeC",
   "assets": [
     {
       "hash": "sha256-4uZDg8mXVF/KhvuvAuH2Kgpw+3NjVgAPZD1G9scIBiw=",
@@ -190,7 +190,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-EeqRcgVXi+DISv/n7fr2bVNjIDyiuWH8/8y6wsip1Ps=",
+      "hash": "sha256-LQ/5nP+R4ftgUGfDENWOvwv9+Sr6BjUdiIOxLHFMYHE=",
       "url": "index.html"
     },
     {
@@ -198,7 +198,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-cEoA32CULmbVUk+gSmrLsxMzM7eGCqOmXEEXL0GOSr0=",
+      "hash": "sha256-g/rz/cwmHp6Vau5TWmHk8cywLm4iJ2wSSkiNqm60dj4=",
       "url": "tailwind.css"
     }
   ]
